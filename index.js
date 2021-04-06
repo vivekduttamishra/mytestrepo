@@ -6,6 +6,6 @@ console.log('maths.plus(2,4)',maths.plus(2,4));
 
 console.log('maths.minus(2,4)',maths.minus(2,4));
 
-console.log('maths.min(0,0)',maths.min(0,0));
+console.log('maths.minus(0,0)',maths.minus(0,0));
 
 
